@@ -1,0 +1,9 @@
+.git
+.idea
+.vscode
+.zed
+target
+frontend/grafik-generator/node_modules
+frontend/grafik-generator/dist
+**/.DS_Store
+*.log
